@@ -1,8 +1,7 @@
 body {
-  padding: 50px;
-  font-family: 'Cabin Sketch', cursive;
+  font-family: 'Caveat', cursive;
   background-image: url('http://s3.amazonaws.com/spoonflower/public/design_thumbnails/0055/1275/rrLined_paper_no_holes-large_shop_preview.png');
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   background-size: 100% 100%;
 }
 
@@ -22,5 +21,10 @@ ul {
 }
 
 .header {
+	font-size: 20pt;
   text-align: center;
+}
+
+.todo-form {
+	text-align: center;
 }
